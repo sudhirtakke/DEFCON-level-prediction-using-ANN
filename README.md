@@ -15,7 +15,7 @@ The first part consists of various visualization and normalization. By visualizi
 A country has set up the DEFCON (Defence Readiness Condition) warning system. This alert system is used to gauge the level of alertness of the defence forces. 
 - It consists of five levels of readiness for the military forces to be prepared for the consequences of the conflict. The DEFCON system allows the nation’s forces to be a step ahead of its rivals. 
 
-![image.png](data.png)
+![image.png](data.PNG)
 
 # Objective
 
